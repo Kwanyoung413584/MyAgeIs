@@ -3,7 +3,7 @@ class Main {
     int myAge = 14;
     int myBirthday = 831;
     int todaysDate = 921;
-    
+
     if (myBirthday == todaysDate)
       System.out.print("I am " + myAge + " years old.");
     else
